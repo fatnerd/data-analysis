@@ -1,5 +1,6 @@
 # data-analysis
-numpy 是python list的函數庫
+# numpy
+是python list的函數庫
 安裝:terminal->pip3 install numpy
 只能存同一種型態(True->1,False->0),eg:[1,2,4]
 
