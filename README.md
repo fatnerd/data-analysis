@@ -39,6 +39,7 @@ print(np_baseball.shape)
 import matplotlib.pyplot as plt
 ## 畫折線圖
 plt.plot(x,y)
-ply.show()
+## 顯示圖
+plt.show()
 ## scatter散點圖
 plt.scatter(x,y)
