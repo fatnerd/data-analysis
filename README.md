@@ -33,7 +33,7 @@ np_weight = np_baseball[:,1]
 ## Print out the shape of np_baseball
 print(np_baseball.shape)
 
-#matplotlib
+# matplotlib
 視覺化資料
 ##
 import matplotlib.pyplot as plt
