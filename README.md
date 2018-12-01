@@ -35,10 +35,10 @@ print(np_baseball.shape)
 
 # matplotlib
 視覺化資料
-##
+##import函數庫
 import matplotlib.pyplot as plt
-##畫折線圖
+## 畫折線圖
 plt.plot(x,y)
 ply.show()
-##scatter散點圖
+## scatter散點圖
 plt.scatter(x,y)
