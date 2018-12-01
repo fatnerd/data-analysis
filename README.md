@@ -1,4 +1,7 @@
 # data-analysis
+這是我學習python data analysis的筆記
+有想補充的東西都可以開issue 
+歡迎補充~
 # numpy
 是python list的函數庫
 安裝:terminal->pip3 install numpy
