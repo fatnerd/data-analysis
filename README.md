@@ -32,3 +32,13 @@ np_weight = np_baseball[:,1]
 
 ## Print out the shape of np_baseball
 print(np_baseball.shape)
+
+#matplotlib
+視覺化資料
+##
+import matplotlib.pyplot as plt
+##畫折線圖
+plt.plot(x,y)
+ply.show()
+##scatter散點圖
+plt.scatter(x,y)
